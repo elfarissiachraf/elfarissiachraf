@@ -19,6 +19,10 @@ Tailwind / NativeWind • Supabase • Zustand • TanStack Query
 
 ## 📊 GitHub Activity
 
-![Achraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfarissiachraf&show_icons=true&count_private=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elfarissiachraf&show_icons=true&count_private=true&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissiachraf&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissiachraf&layout=compact&hide_border=true" />
+</p>
