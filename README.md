@@ -20,9 +20,9 @@ Tailwind / NativeWind • Supabase • Zustand • TanStack Query
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elfarissiachraf&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=elfarissiachraf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissiachraf&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissiachraf&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
