@@ -1,38 +1,24 @@
-# 👋 Hi, I'm Achraf El Farissi
+<h1 align="center">Hi 👋 I'm Achraf El Farissi</h1>
+<h3 align="center">Frontend & React Native Engineer</h3>
 
-### Frontend & Mobile Developer
+---
 
-I specialize in building high-quality web and mobile applications using modern JavaScript frameworks.
+## 🚀 Tech Stack
+React • Next.js • React Native • Expo • TypeScript  
+Tailwind / NativeWind • Supabase • Zustand • TanStack Query  
 
-## 💻 Tech Stack
+---
 
-- React.js
-- Next.js
-- React Native
-- Expo
-- TypeScript
-- Tailwind / NativeWind
-- Supabase
-- Zustand
-- TanStack Query
-
-## 📱 What I Focus On
-
-- Clean architecture
+## 🧠 What I Focus On
+- Scalable frontend architecture
 - Reusable component systems
-- Scalable frontend structures
 - Performance optimization
-- Professional UI/UX
+- Clean code & strong typing
 
-## 🧠 Developer Mindset
+---
 
-I believe in:
-- Writing maintainable code
-- SOLID principles
-- Strong typing
-- Reusable patterns
-- Continuous improvement
+## 📊 GitHub Activity
 
-## 📫 Connect With Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elfarissiachraf&show_icons=true&count_private=true)
 
-- LinkedIn: https://www.linkedin.com/in/achraf-el-farissi-89199a42/
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfarissiachraf&layout=compact)
